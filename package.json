@@ -12,7 +12,7 @@
   "dependencies": {
     "messageformat": "1.0.2",
     "gatsby": "2.32.13",
-    "sharp": "0.23.0",
+    "sharp": "0.30.5",
     "unzipper": "0.10.1",
     "js-beautify": "1.7.4"
   }
