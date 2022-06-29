@@ -10,10 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "messageformat": "1.0.2",
-    "gatsby": "2.32.13",
-    "sharp": "0.23.0",
-    "unzipper": "0.10.1",
-    "js-beautify": "1.7.4"
+    "gulp": "4.0.2",
+    "jest-cli": "24.9.0",
+    "karma": "1.7.1"
   }
 }
