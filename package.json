@@ -12,6 +12,6 @@
   "dependencies": {
     "gulp": "4.0.2",
     "jest-cli": "24.9.0",
-    "karma": "1.7.1"
+    "karma": "3.0.0"
   }
 }
