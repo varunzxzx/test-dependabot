@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "gulp": "4.0.2",
-    "jest-cli": "24.9.0",
+    "jest-cli": "29.4.1",
     "karma": "1.7.1"
   }
 }
