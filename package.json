@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "gulp": "4.0.2",
+    "gulp": "5.0.1",
     "jest-cli": "24.9.0",
     "karma": "1.7.1"
   }
